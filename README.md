@@ -17,7 +17,7 @@ I've loved games since childhood, and now I'm turning that passion into somethin
 - 🚀 Creating small games and learning something new with every project.
 - 💜 Dreaming of creating my own worlds and turning my childhood passion into a career.
 
-\<details>   \<summary>🇷🇺 Обо мне (на русском)\</summary>
+<details>   <summary>🇷🇺 Обо мне (на русском)</summary>
 
 Я начинающий разработчик игр, который с большой любовью относится к видеоиграм и мечтает создавать собственные.
 
@@ -28,15 +28,18 @@ I've loved games since childhood, and now I'm turning that passion into somethin
 - 🚀 Создаю небольшие игры и учусь чему-то новому с каждым проектом.
 - 💜 Мечтаю создавать собственные игровые миры и превратить детское увлечение в профессию.
 
-\</details>
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-\<p>   \<img src="[https://img.shields.io/badge/Unity-17151F?style=for-the-badge&logo=unity&logoColor=white](https://img.shields.io/badge/Unity-17151F?style=for-the-badge\&logo=unity\&logoColor=white)" alt="Unity" />   \<img src="[https://img.shields.io/badge/C%23-292238?style=for-the-badge&logo=csharp&logoColor=B69AEF](https://img.shields.io/badge/C%23-292238?style=for-the-badge\&logo=csharp\&logoColor=B69AEF)" alt="C sharp" />   \<img src="[https://img.shields.io/badge/JavaScript-17151F?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-17151F?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)" alt="JavaScript" />   \<img src="[https://img.shields.io/badge/Git-292238?style=for-the-badge&logo=git&logoColor=F05032](https://img.shields.io/badge/Git-292238?style=for-the-badge\&logo=git\&logoColor=F05032)" alt="Git" /> \</p>
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-17151F?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-292238?style=for-the-badge&logo=csharp&logoColor=B69AEF" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-17151F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-292238?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>---
 
 ## 🎮 My Learning Projects
 
@@ -81,12 +84,16 @@ Creating my own game worlds and turning my childhood passion into a career.
 
 ---
 
-## 📊 GitHub Stats
+---
 
-\<p>   \<img src="[https://github-readme-stats.vercel.app/api?username=Pelmefka&show_icons=true&theme=midnight-purple&hide_border=true](https://github-readme-stats.vercel.app/api?username=Pelmefka\&show_icons=true\&theme=midnight-purple\&hide_border=true)" alt="Pelmefka's GitHub stats" /> \</p>
+## 📊 GitHub Activity
 
-\<p>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmefka&layout=compact&theme=midnight-purple&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelmefka\&layout=compact\&theme=midnight-purple\&hide_border=true)" alt="Most used languages" /> \</p>
+I'm learning, building and improving with every project! 💜
+
+🐈‍⬛ Explore my repositories and follow my journey:
+
+[![GitHub](https://img.shields.io/badge/Visit_my_GitHub-17151F?style=for-the-badge&logo=github&logoColor=B69AEF)](https://github.com/Pelmefka)
 
 ---
 
-\<p align="center">   🐈‍⬛ \<b>Thanks for visiting my little corner of GitHub!\</b>   \<br />   \<i>Keep coding and have fun! 💜\</i> \</p>
+<p align="center">   🐈‍⬛ <b>Thanks for visiting my little corner of GitHub!</b>   <br />   <i>Keep coding and have fun! 💜</i> </p>
