@@ -2,13 +2,16 @@
   <img src="assets/profile-banner.jpg" width="100%">
 </p> 👾 Hey there! I'm Pelmefka
 
+<img align="right" width="350"
+src="assets/cat-about.jpg">
+
 ### Junior Unity Game Developer 🎮
 
 *Learning · Creating · Experimenting*
 
 ---
 
-## ✨ About Me
+## ✨ About Me  
 
 I'm a beginner game developer with a big love for video games and a passion for creating them.
 
