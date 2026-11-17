@@ -1,4 +1,6 @@
-# 👾 Hey there! I'm Pelmefka
+<p align="center">
+  <img src="assets/profile-banner.jpg" width="100%">
+</p> 👾 Hey there! I'm Pelmefka
 
 ### Junior Unity Game Developer 🎮
 
