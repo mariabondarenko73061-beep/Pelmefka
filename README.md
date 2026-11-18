@@ -58,7 +58,7 @@ A learning project where I explored game development by creating a space shooter
 
 *Educational Project*
 
-🔗 Repository: Coming soon
+🔗 Repository: [GitHub — Space Shooter](https://github.com/mariabondarenko73061-beep/Space-Shooter)
 
 ### 🌀 Helix Jump
 
